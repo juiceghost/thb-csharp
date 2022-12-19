@@ -28,3 +28,8 @@
 - 7.1.2. Vad används OSI-modellen till?
 - 7.2.1. Hur många lager har OSI-modellen?
 - 7.2.2. Vad gör varje lager?
+- 8.1.1. Vad innebär realtid?
+- 8.1.2. Vad innebär multitrådning?
+- 8.1.3. Vilka funktioner/syfte har realtid/multitrådning?
+- 8.2.1. Vad innebär asynkrona processer?
+- 8.2.2. För vilka användningsområden bör man använda asynkrona processer?
