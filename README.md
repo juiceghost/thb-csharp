@@ -30,3 +30,4 @@
 10.1.1. Vad är ett programmeringsmönster?
 10.1.2. Vad är syftet med programmeringsmönster?
 10.1.3. Varför använder klasser och arh i C#?
+10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
