@@ -15,6 +15,7 @@
 9. Objektorientering och grundläggande OOAD
 10. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
 11. Informationsflödesdiagram
+  
 
 ## Frågor
 1.1.1. Vad är en algoritm?
@@ -23,3 +24,8 @@
 1.2.2. Vad används en datastruktur till?
 2.1.1. Vad är C#?
 2.1.2. Vad används C# till?
+
+11.1. Vad används informationsflödesdiagram till?
+11.2  Varför används informationsflödesdiagram?
+11.3. Vad är huvudsyftet med ett informationsflödesdiagram?
+11.4. Beskriv hur ett diagram skapas.
