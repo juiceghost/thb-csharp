@@ -25,7 +25,7 @@
 2.1.1. Vad är C#?
 2.1.2. Vad används C# till?
 
-11.1. Vad används informationsflödesdiagram till?
-11.2  Varför används informationsflödesdiagram?
-11.3. Vad är huvudsyftet med ett informationsflödesdiagram?
-11.4. Beskriv hur ett diagram skapas.
+11.1.1. Vad används informationsflödesdiagram till?
+11.1.2. Varför används informationsflödesdiagram?
+11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
+11.1.4. Beskriv hur ett diagram skapas.
