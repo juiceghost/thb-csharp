@@ -4,17 +4,18 @@
 
 ## Mål
 
-1. Grunderna i programmering (ex. algoritmer, datastruktur, procedurell/funktionell programmering, syntax)
-2. Programmering i C#
-3. Verktyg för utveckling i C#
-4. Versionshantering av kod
-5. Olika framework i C#
-6. Olika versioner av .NET
-7. OSI-modellen
-8. Realtid/multitrådning (realtime/multithreading) och asynkrona processer
-9. Objektorientering och grundläggande OOAD
-10. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
-11. Informationsflödesdiagram
+- Grunderna i programmering (ex. algoritmer, datastruktur, procedurell/funktionell programmering, syntax)
+
+1. Programmering i C#
+2. Verktyg för utveckling i C#
+3. Versionshantering av kod
+4. Olika framework i C#
+5. Olika versioner av .NET
+6. OSI-modellen
+7. Realtid/multitrådning (realtime/multithreading) och asynkrona processer
+8. Objektorientering och grundläggande OOAD
+9. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
+10. Informationsflödesdiagram
 
 ## Frågor
 
@@ -39,3 +40,7 @@
 - 9.1.4. Vad är fördelarna med Objektorientering?
 - 9.1.5. Vad är nackdelarna med Objektorientering?
 - 9.1.6. Förklara kortfattat vad Abstraction, Inheritance, Polymorphism och Encapsulation innebär.
+- 10.1.1. Vad är ett programmeringsmönster?
+- 10.1.2. Vad är syftet med programmeringsmönster?
+- 10.1.3. Varför använder klasser och arv i C#?
+- 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
