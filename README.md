@@ -20,11 +20,17 @@
 ## Frågor
 
 1.1.1. Vad är en algoritm?
+
 1.1.2. Vad används en algoritm till?
+
 1.2.1. Vad är en datastruktur?
+
 1.2.2. Vad används en datastruktur till?
+
 2.1.1. Vad är C#?
+
 2.1.2. Vad används C# till?
 
 10.1.1. Vad är ett programmeringsmönster?
+
 10.1.2. Vad är syftet med programmeringsmönster?
