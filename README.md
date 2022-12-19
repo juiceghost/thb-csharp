@@ -34,7 +34,13 @@
 - 8.1.3. Vilka funktioner/syfte har realtid/multitrådning?
 - 8.2.1. Vad innebär asynkrona processer?
 - 8.2.2. För vilka användningsområden bör man använda asynkrona processer?
+- 9.1.1. Vad betyder OOAD?
+- 9.1.2. Varför är OOAD nödvändigt?
+- 9.1.3. Vad innebär Objektorientering?
+- 9.1.4. Vad är fördelarna med Objektorientering?
+- 9.1.5. Vad är nackdelarna med Objektorientering?
+- 9.1.6. Förklara kortfattat vad Abstraction, Inheritance, Polymorphism och Encapsulation innebär.
 - 10.1.1. Vad är ett programmeringsmönster?
 - 10.1.2. Vad är syftet med programmeringsmönster?
-- 10.1.3. Varför använder klasser och arh i C#?
+- 10.1.3. Varför använder klasser och arv i C#?
 - 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
