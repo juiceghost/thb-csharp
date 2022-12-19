@@ -23,3 +23,13 @@
 1.2.2. Vad används en datastruktur till?
 2.1.1. Vad är C#?
 2.1.2. Vad används C# till?
+
+
+
+
+9.1.1. Vad betyder OOAD?
+9.1.2. Varför är OOAD nödvändigt?
+9.1.3. Vad innebär Objektorientering?
+9.1.4. Vad är fördelarna med Objektorientering?
+9.1.5. Vad är nackdelarna med Objektorientering?
+9.1.6. Förklara kortfattat vad Abstraction, Inheritance, Polymorphism och Encapsulation innebär.
