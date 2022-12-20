@@ -44,3 +44,8 @@
 - 10.1.2. Vad är syftet med programmeringsmönster?
 - 10.1.3. Varför använder klasser och arv i C#?
 - 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
+- 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
+- 11.1.1. Vad är ett OOP?
+- 11.1.2. Vad gör arv?
+- 11.1.3. Varför använder vi public class i C#?
+- 11.1.4. Vad använder vi private fileds till i C#?
