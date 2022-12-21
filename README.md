@@ -15,7 +15,7 @@
 9. Objektorientering och grundläggande OOAD
 10. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
 11. Informationsflödesdiagram
-  
+
 ## Frågor
 
 - 1.1.1. Vad är en algoritm?
