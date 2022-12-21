@@ -4,6 +4,28 @@
 
 ## Mål
 
+1. Grunderna i programmering (ex. algoritmer, datastruktur, procedurell/funktionell programmering, syntax)
+2. Programmering i C#
+3. Verktyg för utveckling i C#
+4. Versionshantering av kod
+5. Olika framework i C#
+6. Olika versioner av .NET
+7. OSI-modellen
+8. Realtid/multitrådning (realtime/multithreading) och asynkrona processer
+9. Objektorientering och grundläggande OOAD
+10. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
+11. Informationsflödesdiagram
+  
+
+## Frågor
+1.1.1. Vad är en algoritm?
+1.1.2. Vad används en algoritm till?
+1.2.1. Vad är en datastruktur?
+1.2.2. Vad används en datastruktur till?
+2.1.1. Vad är C#?
+2.1.2. Vad används C# till?
+
+
 - Grunderna i programmering (ex. algoritmer, datastruktur, procedurell/funktionell programmering, syntax)
 
 1. Programmering i C#
@@ -42,10 +64,12 @@
 - 9.1.6. Förklara kortfattat vad Abstraction, Inheritance, Polymorphism och Encapsulation innebär.
 - 10.1.1. Vad är ett programmeringsmönster?
 - 10.1.2. Vad är syftet med programmeringsmönster?
-- 10.1.3. Varför använder klasser och arv i C#?
-- 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
-- 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
-- 11.1.1. Vad är ett OOP?
-- 11.1.2. Vad gör arv?
-- 11.1.3. Varför använder vi public class i C#?
-- 11.1.4. Vad använder vi private fileds till i C#?
+- 10.1.3. Ge exempel på två olika programmeringsmönster och dess användningsområden.
+- 10.2.1. Vad är klasser och arv?
+- 10.2.2. Varför används klasser och arv i C#?
+- 10.2.3. Varför använder vi public class i C#?
+- 10.2.4. Vad använder vi private fileds till i C#?
+- 11.1.1. Vad används informationsflödesdiagram till?
+- 11.1.2. Varför används informationsflödesdiagram?
+- 11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
+- 11.1.4. Beskriv hur ett diagram skapas.
