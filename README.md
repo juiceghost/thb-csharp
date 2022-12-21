@@ -44,3 +44,8 @@
 - 10.1.2. Vad är syftet med programmeringsmönster?
 - 10.1.3. Varför använder klasser och arv i C#?
 - 10.1.4. Ge exempel på två olika programmeringsmönster och dess användningsområden.
+
+## test
+- 1.1.1. Vad är skilnaden mellan c# och Gitbash
+- 1.1.2. Vad är AI?
+- 1.1.3. Vad gör AI?
