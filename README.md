@@ -24,6 +24,11 @@
 - 1.2.2. Vad används en datastruktur till?
 - 2.1.1. Vad är C#?
 - 2.1.2. Vad används C# till?
+- 4.1.1 Vad är en versionshantering och varför är den viktigt?
+- 4.1.2 Hur versionshanterar man en kod?
+- 4.1.3 Vilka verktyg finns det för versionshantering av kod?
+- 4.1.4 Vad är syftet med versionshantering av kod?
+- 4.1.5 Vad är skillnaden mellan Git och Github?
 - 7.1.1. Vad är en OSI-modell?
 - 7.1.2. Vad används OSI-modellen till?
 - 7.2.1. Hur många lager har OSI-modellen?
