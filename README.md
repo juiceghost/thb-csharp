@@ -24,6 +24,7 @@
 - 1.2.2. Vad används en datastruktur till?
 - 2.1.1. Vad är C#?
 - 2.1.2. Vad används C# till?
+
 - 7.1.1. Vad är en OSI-modell?
 - 7.1.2. Vad används OSI-modellen till?
 - 7.2.1. Hur många lager har OSI-modellen?
@@ -50,3 +51,7 @@
 - 11.1.2. Varför används informationsflödesdiagram?
 - 11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
 - 11.1.4. Beskriv hur ett diagram skapas.
+
+## test
+- 1.1.1 vad är C#
+- 1.1.2 Vad är  github
