@@ -24,6 +24,8 @@
 - 1.2.2. Vad används en datastruktur till?
 - 2.1.1. Vad är C#?
 - 2.1.2. Vad används C# till?
+- 2.2. Vad är loop?
+
 
 - 7.1.1. Vad är en OSI-modell?
 - 7.1.2. Vad används OSI-modellen till?
@@ -47,6 +49,7 @@
 - 10.2.2. Varför används klasser och arv i C#?
 - 10.2.3. Varför använder vi public class i C#?
 - 10.2.4. Vad använder vi private fileds till i C#?
+- 10.2.5. Vad är factory pattern?
 - 11.1.1. Vad används informationsflödesdiagram till?
 - 11.1.2. Varför används informationsflödesdiagram?
 - 11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
