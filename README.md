@@ -15,7 +15,7 @@
 9. Objektorientering och grundläggande OOAD
 10. Tillämpbara programmeringsmönster inom OOAD såsom t.ex.: Factory, Strategy, Observer, Singleton - Klasser, arv, aggregering m.m. inom OOAD
 11. Informationsflödesdiagram
-  
+
 ## Frågor
 
 - 1.1.1. Vad är en algoritm?
@@ -24,7 +24,11 @@
 - 1.2.2. Vad används en datastruktur till?
 - 2.1.1. Vad är C#?
 - 2.1.2. Vad används C# till?
-
+- 4.1.1. Vad är versionshantering?
+- 4.1.2. Hur versionshanterar man kod?
+- 4.1.3. Vilka verktyg finns det för versionshantering av kod?
+- 4.1.4. Vad är syftet med versionshantering av kod?
+- 4.1.5. Vad är skillnaden mellan Git och Github?
 - 7.1.1. Vad är en OSI-modell?
 - 7.1.2. Vad används OSI-modellen till?
 - 7.2.1. Hur många lager har OSI-modellen?
@@ -51,7 +55,3 @@
 - 11.1.2. Varför används informationsflödesdiagram?
 - 11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
 - 11.1.4. Beskriv hur ett diagram skapas.
-
-## test
-- 1.1.1 vad är C#
-- 1.1.2 Vad är  github
