@@ -22,13 +22,22 @@
 - 1.1.2. Vad används en algoritm till?
 - 1.2.1. Vad är en datastruktur?
 - 1.2.2. Vad används en datastruktur till?
-- 2.1.1. Vad är C#?
-- 2.1.2. Vad används C# till?
+- 2.1.1. Vad är C#? T.ex är det ett interpreterat eller ett kompilerat språk?
+- 2.1.2. Vad används C# till? Ge ett par exempel på användningsområden.
+- 3.1.1. Vilket kategorier av verktyg används huvudsakligen när vi utvecklar C#-kod?
+- 3.1.2. Ge några exempel på verktyg som används för C#-utveckling
+- 3.1.3. Vad används verktygen till?
 - 4.1.1. Vad är versionshantering?
 - 4.1.2. Hur versionshanterar man kod?
 - 4.1.3. Vilka verktyg finns det för versionshantering av kod?
 - 4.1.4. Vad är syftet med versionshantering av kod?
 - 4.1.5. Vad är skillnaden mellan Git och Github?
+- 5.1.1. Ge minst tre exempel på C#-ramverk
+- 5.1.2. Vad används de ramverken du tagit upp till?
+- 5.1.3. Ge nåt exempel på när användandet av ramverk underlättar utvecklingen.
+- 6.1.1. Vad är skillnaden mellan .NET Core, .NET Framework samt Mono?
+- 6.1.2. Vilka är de tre senaste versionerna av .NET Core, .NET Framework samt Mono?
+- 6.1.3. Vad är skillnaden mellan .NET Runtime och .NET SDK?    
 - 7.1.1. Vad är en OSI-modell?
 - 7.1.2. Vad används OSI-modellen till?
 - 7.2.1. Hur många lager har OSI-modellen?
@@ -50,7 +59,7 @@
 - 10.2.1. Vad är klasser och arv?
 - 10.2.2. Varför används klasser och arv i C#?
 - 10.2.3. Varför använder vi public class i C#?
-- 10.2.4. Vad använder vi private fileds till i C#?
+- 10.2.4. Vad använder vi private fields till i C#?
 - 11.1.1. Vad används informationsflödesdiagram till?
 - 11.1.2. Varför används informationsflödesdiagram?
 - 11.1.3. Vad är huvudsyftet med ett informationsflödesdiagram?
